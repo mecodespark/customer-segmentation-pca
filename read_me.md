@@ -63,6 +63,5 @@ Using PCA helped reduce noise and visualize complex customer behaviors in a simp
 Created by Akash Deep Sinha  
 MSc Business Analytics — Technological University of the Shannon  
 Ex-Zomato | Analytics & Consumer Growth | Data Storytelling Enthusiast  
-"""
 
 readme_content.strip()
