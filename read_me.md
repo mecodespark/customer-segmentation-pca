@@ -19,7 +19,7 @@ This project demonstrates a full-cycle analytics pipeline using an e-commerce re
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 - **Segment 0** → Low spenders / Occasional buyers (potential for reactivation campaigns)
 - **Segment 1** → High frequency and consistent quantity buyers (loyal segment)
@@ -29,7 +29,7 @@ This project demonstrates a full-cycle analytics pipeline using an e-commerce re
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ##  How to Run
 
