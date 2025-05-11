@@ -24,7 +24,7 @@ This project demonstrates a full-cycle analytics pipeline using an e-commerce re
 - **Segment 1** → High frequency and consistent quantity buyers (loyal segment)
 - **Segment 2** → High-value customers with higher average unit price (premium customers)
 
-> Using PCA helped reduce noise and visualize complex customer behaviors in a simplified 2D view, making segmentation and modeling more interpretable and efficient.
+Using PCA helped reduce noise and visualize complex customer behaviors in a simplified 2D view, making segmentation and modeling more interpretable and efficient.
 
 ---
 
