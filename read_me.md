@@ -1,5 +1,4 @@
 
-readme_content = """
 # Customer Segmentation using PCA + KMeans + Random Forest
 
 This project demonstrates a full-cycle analytics pipeline using an e-commerce retail dataset to identify and predict customer segments using unsupervised (PCA + KMeans) and supervised (Random Forest) learning techniques.
